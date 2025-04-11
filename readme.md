@@ -22,7 +22,7 @@ To build an ML-based recommendation system that suggests the top 3 suitable ment
 - pandas
 
 ## How to Run
-1. Ensure Python and `scikit-learn` are installed:
+1. Ensure Python and "scikit-learn" are installed:
    
    pip install pandas scikit-learn
 
@@ -32,7 +32,7 @@ To build an ML-based recommendation system that suggests the top 3 suitable ment
    
 
 ## Dataset
-Mock mentor data is stored in `mentors.csv` with fields:
+Mock mentor data is stored in "mentors.csv" with fields:
 - Name
 - Expertise Subject
 - College
